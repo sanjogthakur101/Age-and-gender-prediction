@@ -1,0 +1,1 @@
+Age and Gender Prediction using Machine Learning This project aims to predict a person’s age group and gender based on facial images using machine learning and deep learning techniques. It provides a complete pipeline — from data preprocessing and model training to evaluation and inference — designed for both experimentation and practical use.
